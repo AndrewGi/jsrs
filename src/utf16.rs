@@ -1,0 +1,1 @@
+pub struct UTF16String(Vec<u16>);
